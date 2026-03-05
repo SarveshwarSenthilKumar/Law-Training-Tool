@@ -1,1 +1,2 @@
+scrapped idea until further notice
 To be started: Create an app which takes the testimony of a person for mock trial cases and uses it to find flaws considering every major point and considering all testimony and can ask you questions to grill and else can recommend answers. Can also bring up all the possible points for a defense or prosecution.
